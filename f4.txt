@@ -1,0 +1,5 @@
+4 commit4 commit4 commit4 commit
+<<<<<<< HEAD
+commit --amend
+=======
+>>>>>>> 4fd9c90702e4a71734a25cabd1225c404c187fc7
